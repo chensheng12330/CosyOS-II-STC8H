@@ -92,3 +92,5 @@ CosyOS具有多项突破创新功能：
   
 3. **中断本地服务互斥机制**：  
    - 中断本地服务采用互斥访问机制，确保中断处理的实时性和完整性。
+
+##### 来源: https://www.stcaimcu.com/forum.php?mod=viewthread&tid=1807
