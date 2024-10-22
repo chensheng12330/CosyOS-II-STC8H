@@ -1,0 +1,19 @@
+# OS X
+.DS_Store
+
+*.bak
+*.Bak
+*.bin
+*.hex
+*.HEX
+*.OBJ
+*.plg
+*.obj
+*.M51
+*.LST
+*.lnp
+
+#Dir
+build/
+Listings/
+Objects/
